@@ -3,4 +3,4 @@ I'm Dinh Huy Cu (Đinh Huy Cự) from Vietnam. As a Back-end Java Developer, I a
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CuDinh03&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuDinh03&layout=donut&hide=javascript,html)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuDinh03&layout=donut&hide=javascript,html,css,scss)
