@@ -5,9 +5,9 @@ I'm Dinh Huy Cu (Đinh Huy Cự) from Vietnam. As a Back-end Java Developer, I a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CuDinh03&layout=donut&hide=javascript,html,css,scss)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CuDinh03" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuDinh03&layout=donut&hide=javascript,html,css,scss&layout=compact&langs_count=8&card_width=320" />
 </a>
