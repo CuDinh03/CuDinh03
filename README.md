@@ -9,5 +9,5 @@ I'm Dinh Huy Cu (Đinh Huy Cự) from Vietnam. As a Back-end Java Developer, I a
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CuDinh03" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuDinh03&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuDinh03&layout=compact&hide=javascript,html,css,scss&langs_count=8&card_width=320" />
 </a>
