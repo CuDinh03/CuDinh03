@@ -7,3 +7,9 @@ I'm Dinh Huy Cu (Đinh Huy Cự) from Vietnam. As a Back-end Java Developer, I a
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuDinh03&layout=compact&hide=javascript,html,css,scss&langs_count=8&card_width=320" />
 </a>
+<a href="https://github.com/CuDinh03/DATN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CuDinh03&repo=DATN" />
+</a>
+<a href="[https://github.com/anuraghazra](https://github.com/CuDinh03)/FE_DATN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CuDinh03&repo=FE_DATN" />
+</a>
